@@ -1,6 +1,5 @@
-# spring_stats_hw2_part1
+# Spring Stats Homework 2
 
-Homework 2 
 
 Remember to add the AI statement for the assignment(5 points). 
 
